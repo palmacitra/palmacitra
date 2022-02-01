@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @palmacitra
+- 👋 Hi, I’m @palmacitra and also coding with doing some tune on bandlab.com/palmacitra
 - 👀 I’m interested in CI/CD
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on related projects
